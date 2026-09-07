@@ -114,11 +114,12 @@ This project was created to practice and understand:
 - Model Evaluation
 - Confusion Matrix Interpretation
 
-## 👤 Author
-
-**Abdullah Shaheer**
-
-BS Data Science Student
+## 👨‍💻 Author
+### Name: Abdullah Shaheer
+#### LinkedIn: www.linkedin.com/in/abdullah-shaheer260
+#### Kaggle: https://kaggle.com/abdullahshaheer260
+#### GitHub: https://github.com/abdullahshaheer901-pixel
+#### Gmail: abdullahshaheer901@gmail.com
 
 ## ⭐ Support
 
